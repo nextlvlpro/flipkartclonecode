@@ -20,7 +20,7 @@ import Logout from './Comps/registerandLogin/Logout'
 import BuySingleProduct from './Comps/Products/Buy/BuySingleProduct'
 import Orders from './Comps/Products/orders/Orders'
 
-axios.defaults.baseURL = 'http://localhost:4000'
+axios.defaults.baseURL = 'https://flipkartbackend-ndsf.onrender.com'
 axios.defaults.withCredentials = true
 
 function App() {
