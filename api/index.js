@@ -24,7 +24,7 @@ const ordersRoute = require('./Routes/ordersRoute.js')
 
 // envdata
 const PORT = process.env.PORT
-const MONGOURL = process.env.MONGOCONNECTUR
+const MONGOURL = process.env.MONGOCONNECTURL
 
 //jwt Key
 const jwtKey = 'adjfvaiywvfadvclisgwef3563ewtw4yterwyheshuejh'
